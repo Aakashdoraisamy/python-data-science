@@ -1,0 +1,141 @@
+ML ROADMAP
+
+LAYER 1: FOUNDATIONS (NO ML YET)
+
+Purpose: Understand what problem ML solves
+
+Learn in this order:
+1. What is Machine Learning
+2. Types of ML
+   - Supervised Learning
+   - Unsupervised Learning
+   - Semi-supervised Learning
+3. Machine Learning workflow
+
+Machine Learning Flow (memorize this):
+Problem → Data → Cleaning → Features → Model → Evaluation → Improvement
+
+Do NOT learn algorithms here.
+
+--------------------------------------------------
+
+LAYER 2: DATA UNDERSTANDING & PREPROCESSING
+
+Purpose: ML is 80% data, not algorithms
+
+Learn in this order:
+1. Dataset types
+   - Structured
+   - Unstructured
+2. Features and Target
+   - X (input)
+   - y (output)
+3. Data issues
+   - Missing values
+   - Outliers
+   - Duplicates
+4. Encoding (this is where encoding belongs)
+   - Label Encoding
+   - One-Hot Encoding
+5. Feature Scaling
+   - Standardization
+   - Normalization
+6. Train-test split
+
+After this step, your data is ML-ready.
+
+--------------------------------------------------
+
+LAYER 3: SUPERVISED LEARNING (CORE ML)
+
+Purpose: Learn how models think
+
+STEP 1: REGRESSION (always start here)
+
+Learn in this order:
+1. Linear Regression
+2. Cost Function (MSE)
+3. Gradient Descent (intuition only)
+4. Overfitting vs Underfitting
+
+Regression Metrics:
+- MAE
+- MSE
+- RMSE
+- R-squared
+
+Metrics only make sense AFTER training a model.
+
+--------------------------------------------------
+
+STEP 2: CLASSIFICATION
+
+Learn in this order:
+1. Logistic Regression
+2. K-Nearest Neighbors (KNN)
+3. Decision Tree
+4. Random Forest (intuition)
+
+Classification Metrics:
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+- ROC-AUC
+
+Why accuracy fails:
+Accuracy fails when data is imbalanced.
+Precision and Recall solve this problem.
+
+--------------------------------------------------
+
+LAYER 4: MODEL EVALUATION & IMPROVEMENT
+
+This layer causes maximum confusion.
+
+Learn in this order:
+1. Why evaluation is needed
+2. Confusion Matrix (most important)
+3. Choosing the correct metric
+4. Cross-validation
+5. Bias-variance tradeoff
+6. Hyperparameter tuning (GridSearch / RandomSearch)
+
+Golden Rule:
+A model is not good just because accuracy is high.
+A model is good if it generalizes well.
+
+--------------------------------------------------
+
+LAYER 5: UNSUPERVISED LEARNING
+
+Purpose: Find patterns without labels
+
+Learn:
+1. K-Means Clustering
+2. Elbow Method
+3. Hierarchical Clustering
+4. PCA (Dimensionality Reduction)
+
+Unsupervised Metrics:
+- Silhouette Score
+- Inertia
+
+--------------------------------------------------
+
+FINAL BIG PICTURE (REMEMBER THIS FOREVER)
+
+DATA
+↓
+PREPROCESSING
+↓
+FEATURE ENGINEERING
+↓
+MODEL
+↓
+PREDICTION
+↓
+EVALUATION
+↓
+IMPROVEMENT
