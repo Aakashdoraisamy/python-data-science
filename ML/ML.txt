@@ -139,3 +139,31 @@ PREDICTION
 EVALUATION
 ↓
 IMPROVEMENT
+
+
+1. Understand problem
+2. Load dataset
+3. Data cleaning
+4. EDA
+5. Separate X & Y
+6. Encoding
+7. Scaling
+8. Train-test split
+9. Create model
+10. Train model
+11. Get slope & intercept
+12. Predict
+13. Evaluate errors
+14. Improve
+
+1️⃣ Problem understanding
+2️⃣ Collect / load dataset
+3️⃣ EDA (exploratory data analysis)
+4️⃣ Data cleaning (missing values, outliers)
+5️⃣ Encoding categorical features
+6️⃣ Scaling (if required)
+7️⃣ Train–test split
+8️⃣ Model training (FITTING happens here) 
+9️⃣ Prediction
+🔟 Model evaluation (errors, accuracy, R², etc.)
+1️⃣1️⃣ Model tuning (optional)
