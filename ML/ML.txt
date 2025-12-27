@@ -167,3 +167,68 @@ IMPROVEMENT
 9️⃣ Prediction
 🔟 Model evaluation (errors, accuracy, R², etc.)
 1️⃣1️⃣ Model tuning (optional)
+
+
+Algorithms :-
+
+1️⃣ Supervised Learning Algorithms
+
+Regression Algorithms (Output = Continuous)
+
+1) Linear Regression
+
+2) Polynomial Regression
+
+3) Ridge Regression
+
+4) Lasso Regression
+
+5) Elastic Net
+
+Classification Algorithms (Output = Categories)
+
+1) Logistic Regression
+
+2) K-Nearest Neighbors (KNN)
+
+3) Decision Tree
+
+4) Random Forest
+
+5) Support Vector Machine (SVM)
+
+6) Naive Bayes
+
+7) XGBoost / LightGBM / CatBoost
+
+2️⃣ Unsupervised Learning Algorithms
+
+Clustering Algorithms
+
+1) K-Means
+
+2) Hierarchical Clustering
+
+3) DBSCAN
+
+4) Gaussian Mixture Model (GMM)
+
+Dimensionality Reduction Algorithms
+
+1) PCA (Principal Component Analysis)
+
+2) LDA (Linear Discriminant Analysis) (semi-supervised use)
+
+3) t-SNE
+
+4) UMAP
+
+5) Autoencoders
+
+Association Rule Learning
+
+1) Apriori
+
+2) FP-Growth
+
+3) Eclat
