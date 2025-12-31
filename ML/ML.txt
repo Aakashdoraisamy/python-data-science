@@ -232,3 +232,26 @@ Association Rule Learning
 2) FP-Growth
 
 3) Eclat
+
+
+Linear Regression :
+
+Problem →
+Data →
+Cleaning →
+EDA →
+Feature Selection →
+Encoding →
+Scaling →
+Split →
+Linear / Polynomial →
+Train →
+Coefficients →
+Predict →
+Evaluate →
+Assumptions →
+Regularization →
+Tuning →
+Advanced Models →
+Pipeline →
+Deploy
