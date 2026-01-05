@@ -255,3 +255,53 @@ Tuning →
 Advanced Models →
 Pipeline →
 Deploy
+
+
+python-data-science/
+│
+├── 01_python_basics_for_ds/
+│   ├── numpy_basics.py
+│   ├── pandas_basics.py
+│   └── data_cleaning.py
+│
+├── 02_exploratory_data_analysis/
+│   ├── eda_titanic.ipynb
+│   ├── eda_air_quality.ipynb
+│   └── eda_sales_data.ipynb
+│
+├── 03_data_preprocessing/
+│   ├── handling_missing_values.py
+│   ├── outlier_detection.py
+│   ├── feature_scaling.py
+│   └── encoding_categorical.py
+│
+├── 04_statistics_for_ds/
+│   ├── descriptive_stats.py
+│   ├── probability_distributions.py
+│   └── hypothesis_testing.py
+│
+├── 05_machine_learning/
+│   ├── regression/
+│   │   ├── linear_regression.py
+│   │   └── house_price_prediction.ipynb
+│   ├── classification/
+│   │   ├── logistic_regression.py
+│   │   └── churn_prediction.ipynb
+│   └── clustering/
+│       └── kmeans_customer_segmentation.ipynb
+│
+├── 06_model_evaluation/
+│   ├── confusion_matrix.py
+│   ├── roc_auc.py
+│   └── cross_validation.py
+│
+├── 07_real_world_case_studies/
+│   ├── air_quality_analysis/
+│   ├── customer_churn/
+│   └── sales_forecasting/
+│
+├── datasets/
+│   └── README.md
+│
+├── requirements.txt
+└── README.md
